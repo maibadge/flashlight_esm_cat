@@ -6647,102 +6647,6 @@
 		(sheetfile "flashlight2.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 0.95 -3.05)
-			(end -1.5 -3.05)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "45171428-e7ae-45ba-9fe1-426b4c6f53e9")
-		)
-		(fp_line
-			(start -1.5 3.05)
-			(end 0.95 3.05)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "7a7a5881-2aa3-4f7b-a633-6852069e8793")
-		)
-		(fp_line
-			(start -2.05 -2.5)
-			(end -2.05 2.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "86b68bde-a194-4cab-a791-dba6c6396042")
-		)
-		(fp_arc
-			(start 29.2 0)
-			(mid 16.974433 13.886953)
-			(end 1.65 3.52)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "9135b26a-5611-406e-b6c3-5af0e1c9e462")
-		)
-		(fp_arc
-			(start 1.65 -3.52)
-			(mid 16.974433 -13.886954)
-			(end 29.2 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "74423f60-a232-4c34-9731-febbbd7fca18")
-		)
-		(fp_arc
-			(start 1.65 -3.52)
-			(mid 1.371574 -3.178401)
-			(end 0.95 -3.05)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "343203d3-9233-4759-9914-173df6aff700")
-		)
-		(fp_arc
-			(start 0.95 3.05)
-			(mid 1.371573 3.1784)
-			(end 1.65 3.52)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "8882b662-b263-4a93-a34e-c120e762524c")
-		)
-		(fp_arc
-			(start -1.5 3.05)
-			(mid -1.888909 2.888909)
-			(end -2.05 2.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "d90abfac-e414-4fab-b5da-9401605a73ef")
-		)
-		(fp_arc
-			(start -2.05 -2.5)
-			(mid -1.888909 -2.888909)
-			(end -1.5 -3.05)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "d26b0bb4-c22f-4e22-9075-984a7f72bf60")
-		)
-		(fp_line
 			(start 0.95 -3.3)
 			(end -1.5 -3.3)
 			(stroke
@@ -7186,6 +7090,45 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "c79bb480-a426-4dd6-a3fb-91f083028942")
+	)
+	(gr_text "by Justin & Hackin7"
+		(at 201.47282 83.290135 0)
+		(layer "B.SilkS")
+		(uuid "8faa76a6-0651-43be-b979-9b4e46f31498")
+		(effects
+			(font
+				(size 1.54 1.54)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "maibadge: flashlight cat"
+		(at 201.286198 80.490807 0)
+		(layer "B.SilkS")
+		(uuid "a8388cbb-7a3c-4727-ab5d-877d85bb1818")
+		(effects
+			(font
+				(size 1.54 1.54)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 193.696909 101.454662 0)
+		(layer "B.SilkS")
+		(uuid "b5c385d9-9015-40ea-bd17-d5ebf09efae9")
+		(effects
+			(font
+				(size 1.54 1.54)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(segment
 		(start 175.711001 109.417001)
